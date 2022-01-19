@@ -1,4 +1,4 @@
-#  Contact List
+#  Contact List - RxSwift + MVVM + Alamofire
 A 2-view app that fetches contacts from a public endpoint and diplays their info on a tableview.
 
 This project showcases: 
